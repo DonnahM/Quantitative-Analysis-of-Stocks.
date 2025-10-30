@@ -56,7 +56,7 @@ This plot illustrates how stock prices moved over time, showing **long-term tren
 By visualizing the closing prices, overall momentum, potential cycles, and how each stock responded to market shifts become apparent.  
 
 
-![Time Series of Closing Prices](plots/closing_price_trend.png)
+![Time Series of Closing Prices](images/closing_price_trend.png)
 
 ---
 
