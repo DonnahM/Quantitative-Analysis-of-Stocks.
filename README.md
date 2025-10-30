@@ -56,7 +56,7 @@ This plot illustrates how stock prices moved over time, showing **long-term tren
 By visualizing the closing prices, overall momentum, potential cycles, and how each stock responded to market shifts become apparent.  
 
 
-![Time Series of Closing Prices](images/time_series_matplotlib.png)
+![Time Series of Closing Prices](time_series_matplotlib.png)
 
 ---
 
@@ -68,7 +68,7 @@ Stocks appearing toward the **top-left** offer higher returns for lower risk, wh
 This visualization captures the essence of performance efficiency and portfolio balance.  
 
 
-![Risk vs. Return Scatter Plot](images/risk_return_matplotlib.png)
+![Risk vs. Return Scatter Plot](risk_return_matplotlib.png)
 
 ---
 
