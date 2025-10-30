@@ -42,7 +42,7 @@ Each step builds on the previous one to ensure accuracy, clarity, and meaningful
 4. **Performance Comparison** – Evaluated and compared stocks using risk–return metrics to identify the most stable and rewarding investments.  
 5. **Visualization** – Created interactive and static plots to illustrate market trends, correlations, and overall performance patterns.  
 
-This step-by-step process forms the foundation for all subsequent insights — ensuring that every conclusion is supported by clean data and sound analysis.  
+This step-by-step process forms the foundation for all subsequent insights ensuring that every conclusion is supported by clean data and sound analysis.  
 
 ---
 
